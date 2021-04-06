@@ -1,5 +1,9 @@
 # Fisy
 
+* **Fisy starter**: the simplest version of FISY, perfect to start building your financial forecast. A free financial tool for entrepreneurs who are new to finance and who want to validate the feasibility of their business plan.
+* **Fisy essential**: the standard version of FISY. A simple and effective Excel model to get to the point in building a financial forecast and in the strategic thinking of the business plan for the majority of business creation projects.
+* **Fisy innovation**: the “innovation” version of FISY. An excel financial business plan model suitable for innovative projects with a strong R&D dimension (CIR, CII, CICE, JEI, etc.) and / or entrepreneurs wishing to have a more in-depth analytical approach to their financial forecasts.
+
 ## The easy and free financial forecast for business plan
 Easily build your startup's financial forecasts
 
